@@ -53,5 +53,25 @@ This project is an interactive Sales & Profit Dashboard developed in **Microsoft
 
 ## Author
 
-**Ronak Yadav**
+Ronak Yadav
+
+B.Com Student | Data Analyst Aspirant
+
+
+## Note
+This is a macro-enabled Excel dashboard (.xlsm).
+
+After downloading the file from GitHub, Microsoft Excel may block macros because the file is from an internet source.
+
+To enable full functionality:
+
+1. Download the Sales_Profit_Dashboard.xlsm file.
+2. Right-click the file and select Properties.
+3. If available, check Unblock and click Apply.
+4. Open the workbook in Microsoft Excel.
+5. Click Enable Content to use all interactive features.
+
+This is a standard Windows security feature for downloaded macro-enabled files.
+
+
 
